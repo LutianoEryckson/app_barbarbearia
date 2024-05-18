@@ -61,3 +61,14 @@ yarn ios
 
 A página home possui estrutura definida porém por não possuir nenhum banco de dados conectado ao app ela não exibe nada.
 
+Preview: 
+https://github.com/LutianoEryckson/app_barbarbearia/assets/122839352/ee5c5943-6ab7-4295-b4d2-fcfb95f5addf
+
+
+Como a tela home "está":
+![Captura de tela 2024-05-18 085355](https://github.com/LutianoEryckson/app_barbarbearia/assets/122839352/67f21cc7-4d06-4e95-87b9-08c1eceff0ca)
+
+
+
+
+
